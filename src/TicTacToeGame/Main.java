@@ -21,7 +21,6 @@ public class Main extends Application {
     //set an array to store the 9 Buttons
     Button[] btn = new Button[9];
 
-
     @Override
     public void start(Stage primaryStage) throws Exception{
 
